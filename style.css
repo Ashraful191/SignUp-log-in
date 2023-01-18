@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(img/img1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+div{
+    margin-bottom: 1rem;
+
+}
+.formId{
+   width: 500px;
+   box-shadow: 0 0 3px red;
+   background: ;
+   padding: 20px;
+   margin: 8% auto 0;
+   text-align: center;
+}
